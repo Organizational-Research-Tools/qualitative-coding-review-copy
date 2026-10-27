@@ -1,0 +1,33 @@
+{
+  "synthetic": true,
+  "schema_version": 1,
+  "fixture_version": "1.0.0",
+  "generation": "scripts/build_synthetic_fixture.py; invented texts, readers, decisions and model responses",
+  "codebook_version": "0.2.0",
+  "inputs": {
+    "codebook": "codebooks/v0.2.0.json",
+    "previous_codebook": "codebooks/v0.1.0.json",
+    "campaigns": "fixtures/synthetic/campaigns.json",
+    "sources": "fixtures/synthetic/sources.json",
+    "segments": "fixtures/synthetic/segments.json",
+    "human_judgments": "fixtures/synthetic/human_judgments.json",
+    "decisions": "fixtures/synthetic/decisions.json",
+    "revision": "fixtures/synthetic/revision.json",
+    "models": "fixtures/synthetic/models.json",
+    "model_judgments": "fixtures/synthetic/model_judgments.json",
+    "corrections": "fixtures/synthetic/corrections.json"
+  },
+  "sha256": {
+    "codebooks/v0.2.0.json": "781505484f926539387a6501ff4ccaaed54a88613949cabf115f240deb6a3e1d",
+    "codebooks/v0.1.0.json": "f1176f145e7c5d76fb02786125bb94288976c71f86370d16b31259130f7240c7",
+    "fixtures/synthetic/campaigns.json": "abcab1db9c9ba146a3fa6c4a0550add137ddd43f121734a21f619c900e1e95d0",
+    "fixtures/synthetic/sources.json": "f21e60d24c28838b37bfefc3c68afc1d4928819a00f09e225a2d283505a05438",
+    "fixtures/synthetic/segments.json": "b46d6c9a87c327d86e77c9a0cd8dd41a3274a18002043019fc9a50c0b77cb84f",
+    "fixtures/synthetic/human_judgments.json": "29dc5442b8e85de125aecb5a152cc56506a0ccfa44af05969bb31985655f9729",
+    "fixtures/synthetic/decisions.json": "b852a8eeab6258fe7174026f86fe2e4121b9dedcb721e5f5e9d0eb94f21b6dbf",
+    "fixtures/synthetic/revision.json": "15f34a0968dc0562732f35f1cc568c0e56440c6fd0b0d6a59d17408e14c251ce",
+    "fixtures/synthetic/models.json": "b07ab4af454e4fa80d06237e7a60aed3ee38a1aa5f3f5f0eca577095432d08a0",
+    "fixtures/synthetic/model_judgments.json": "e0447d77c9a6abadd8fcc76c0ea0b20f47fcbb2c1ad4245dff643ff0182cf2ed",
+    "fixtures/synthetic/corrections.json": "00f19a9843bed3d86b2d709988934e4c575d266f77d39d69a9887c3484fa688c"
+  }
+}

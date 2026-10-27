@@ -1,0 +1,16 @@
+[
+  {
+    "correction_id": "RETURN-001",
+    "segment_id": "SYN-M01:0",
+    "code": "concealed_reversal",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "context_quote": "We tested the rival's story. The dated notices showed that the orders had been disclosed before the technician spoke; we reject the concealment account.",
+    "rationale": "All three simulated models recognized a concealment sequence but missed whose claim it was. The next paragraph explicitly rejects the rival's account. Under the existing stance criterion the passage is not the author's concealment story.",
+    "case_decision": "Reject SYN-M01 as a positive exemplar; retain it as a model-error and context-boundary case.",
+    "next_step": "Prospectively test wider context on new calibration material. Preserve this cache and this holdout; do not tune on their scores."
+  }
+]

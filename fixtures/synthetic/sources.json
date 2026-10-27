@@ -1,0 +1,50 @@
+[
+  {
+    "source_id": "SYN-C01-DOC",
+    "campaign_id": "SYN-C01",
+    "synthetic": true,
+    "text": "Lumen promised a launch in spring. A supplier strike delayed the launch until winter.\n\nLumen's managers hid failed tests. An engineer released the logs, and customers cancelled their orders.\n\nTo meet delivery promises, Lumen added rush orders. Rush orders displaced maintenance, so breakdowns caused further delays.",
+    "origin": "Invented for this artifact; no empirical report or real company is represented.",
+    "sha256": "91445eb94462b850307aaa5b180d60bec9b4964f52d49e8004a74853bd6320b9"
+  },
+  {
+    "source_id": "SYN-H01-DOC",
+    "campaign_id": "SYN-H01",
+    "synthetic": true,
+    "text": "Cedar's directors hid cancelled contracts. A clerk disclosed the cancellations, and lenders withdrew credit.\n\nCedar opened new depots to serve distant clients. Every new depot increased empty return trips, which drained funds needed for service.\n\nCritics said Cedar hid losses until an audit exposed them. We reject that account: the audit found the losses were already disclosed.",
+    "origin": "Invented for this artifact; no empirical report or real company is represented.",
+    "sha256": "97779e036204a97950a77b95b3ff4904a6ec6c463f0fc675998cb011459ffa88"
+  },
+  {
+    "source_id": "SYN-H02-DOC",
+    "campaign_id": "SYN-H02",
+    "synthetic": true,
+    "text": "A clerk changed the ledger. Later the public totals changed; the fragment does not tell us whether the earlier totals were concealed or corrected.\n\nThe board met on Monday. The company opened its scheduled branch on Tuesday.\n\nThis entirely fictional document is a teaching example.",
+    "origin": "Invented for this artifact; no empirical report or real company is represented.",
+    "sha256": "d6933b59407a46e4e63e8c727496a5e770fe8ef7d4507fffaaec1996b8735b47"
+  },
+  {
+    "source_id": "SYN-M01-DOC",
+    "campaign_id": "SYN-M01",
+    "synthetic": true,
+    "text": "A rival claimed that Vale concealed failed orders until a technician revealed them and buyers fled.\n\nWe tested the rival's story. The dated notices showed that the orders had been disclosed before the technician spoke; we reject the concealment account.\n\nThen the records ... [missing fictional page] ... the buyers ...",
+    "origin": "Invented for this artifact; no empirical report or real company is represented.",
+    "sha256": "481e7c609d509184d298c0ffc88eca83d7dad31675370619bc2b10fb92ddfa06"
+  },
+  {
+    "source_id": "SYN-M02-DOC",
+    "campaign_id": "SYN-M02",
+    "synthetic": true,
+    "text": "Moss added clients to cover fixed costs. Each client required a dedicated machine, so expansion raised fixed costs faster than revenue.\n\nMoss removed a failed test from its brochure. A reviewer found the archived brochure, and customers asked for refunds.",
+    "origin": "Invented for this artifact; no empirical report or real company is represented.",
+    "sha256": "2174f2ed5339186ae2c001e16356ff3ba95e433dfcf0158d65e0c2174fdd243c"
+  },
+  {
+    "source_id": "SYN-M03-DOC",
+    "campaign_id": "SYN-M03",
+    "synthetic": true,
+    "text": "Moss replaced a machine on Monday. Production resumed on Tuesday, as planned.\n\nMoss added a second shift after demand rose. Repairs increased next month, but this passage does not establish whether shift expansion caused them.",
+    "origin": "Invented for this artifact; no empirical report or real company is represented.",
+    "sha256": "8d7f9cb647b79f00098acfc604b71d2fe74daa26490c0973f9b4f4236f5f48ab"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "decision_id": "D-SYN-C01:0-concealed_reversal",
+    "segment_id": "SYN-C01:0",
+    "code": "concealed_reversal",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-C01:0-concealed_reversal-reader_a-v2",
+      "H-SYN-C01:0-concealed_reversal-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-C01:0-structural_trap",
+    "segment_id": "SYN-C01:0",
+    "code": "structural_trap",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-C01:0-structural_trap-reader_a-v2",
+      "H-SYN-C01:0-structural_trap-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-C01:1-concealed_reversal",
+    "segment_id": "SYN-C01:1",
+    "code": "concealed_reversal",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 1,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-C01:1-concealed_reversal-reader_a-v2",
+      "H-SYN-C01:1-concealed_reversal-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-C01:1-structural_trap",
+    "segment_id": "SYN-C01:1",
+    "code": "structural_trap",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-C01:1-structural_trap-reader_a-v2",
+      "H-SYN-C01:1-structural_trap-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-C01:2-concealed_reversal",
+    "segment_id": "SYN-C01:2",
+    "code": "concealed_reversal",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-C01:2-concealed_reversal-reader_a-v2",
+      "H-SYN-C01:2-concealed_reversal-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-C01:2-structural_trap",
+    "segment_id": "SYN-C01:2",
+    "code": "structural_trap",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 1,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-C01:2-structural_trap-reader_a-v2",
+      "H-SYN-C01:2-structural_trap-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-H01:0-concealed_reversal",
+    "segment_id": "SYN-H01:0",
+    "code": "concealed_reversal",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 1,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-H01:0-concealed_reversal-reader_a-v2",
+      "H-SYN-H01:0-concealed_reversal-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-H01:0-structural_trap",
+    "segment_id": "SYN-H01:0",
+    "code": "structural_trap",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-H01:0-structural_trap-reader_a-v2",
+      "H-SYN-H01:0-structural_trap-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-H01:1-concealed_reversal",
+    "segment_id": "SYN-H01:1",
+    "code": "concealed_reversal",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-H01:1-concealed_reversal-reader_a-v2",
+      "H-SYN-H01:1-concealed_reversal-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-H01:1-structural_trap",
+    "segment_id": "SYN-H01:1",
+    "code": "structural_trap",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 1,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-H01:1-structural_trap-reader_a-v2",
+      "H-SYN-H01:1-structural_trap-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-H01:2-concealed_reversal",
+    "segment_id": "SYN-H01:2",
+    "code": "concealed_reversal",
+    "codebook_version": "0.2.0",
+    "kind": "adjudicated",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-H01:2-concealed_reversal-reader_a-v2",
+      "H-SYN-H01:2-concealed_reversal-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  },
+  {
+    "decision_id": "D-SYN-H01:2-structural_trap",
+    "segment_id": "SYN-H01:2",
+    "code": "structural_trap",
+    "codebook_version": "0.2.0",
+    "kind": "collective",
+    "value": 0,
+    "participants": [
+      "reader_a",
+      "reader_b"
+    ],
+    "judgment_ids": [
+      "H-SYN-H01:2-structural_trap-reader_a-v2",
+      "H-SYN-H01:2-structural_trap-reader_b-v2"
+    ],
+    "rationale": "Synthetic collective reading: apply the sequence and author-stance criteria; a rejected allegation is not an endorsed story. No claim that the described events are true."
+  }
+]

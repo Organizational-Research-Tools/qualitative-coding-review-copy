@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "synthetic": true,
+  "scope": "Two teaching codes inspired by narrative coding; not the project's nine-trope codebook.",
+  "unit": "Prepared segment interpreted in its document context",
+  "multi_label": "Both may occur if the text supports distinct mechanisms; defend each assignment.",
+  "freeze_event": "F2: after synthetic collective revision, before evaluation",
+  "codes": {
+    "concealed_reversal": {
+      "name": "Concealment followed by revelation",
+      "definition": "The passage advances a story in which actors conceal a material condition and its later revelation changes others' understanding or action.",
+      "include": [
+        "Identify who conceals, what is concealed, and a revelation or discovery in an event sequence.",
+        "An author's allegation can instantiate the story without proving the allegation true."
+      ],
+      "exclude": [
+        "Disappointment or reversal without concealment and revelation.",
+        "An allegation merely quoted and rejected by the author; read surrounding text to establish stance."
+      ],
+      "uncertainty": "Preserve uncertainty if the actor, sequence, or author's stance cannot be resolved from the available context."
+    },
+    "structural_trap": {
+      "name": "Self-defeating operating sequence",
+      "definition": "The passage advances an event sequence in which the operating arrangement itself produces a worsening consequence even as actors follow it.",
+      "include": [
+        "Name the repeated or linked actions, the arrangement connecting them, and the worsening consequence."
+      ],
+      "exclude": [
+        "A bad outcome alone, a static unfavorable ratio, or a single execution mistake.",
+        "A mechanism the author quotes only to reject."
+      ],
+      "uncertainty": "Retain rival interpretations of mechanism and temporality."
+    }
+  }
+}

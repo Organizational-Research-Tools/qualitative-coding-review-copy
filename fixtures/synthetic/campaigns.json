@@ -1,0 +1,62 @@
+[
+  {
+    "campaign_id": "SYN-C01",
+    "split": "calibration",
+    "target_id": "SYN-T01",
+    "window": [
+      0,
+      2
+    ],
+    "synthetic": true
+  },
+  {
+    "campaign_id": "SYN-H01",
+    "split": "holdout",
+    "target_id": "SYN-T02",
+    "window": [
+      0,
+      2
+    ],
+    "synthetic": true
+  },
+  {
+    "campaign_id": "SYN-H02",
+    "split": "holdout",
+    "target_id": "SYN-T03",
+    "window": [
+      0,
+      2
+    ],
+    "synthetic": true
+  },
+  {
+    "campaign_id": "SYN-M01",
+    "split": "mapping",
+    "target_id": "SYN-T04",
+    "window": [
+      0,
+      2
+    ],
+    "synthetic": true
+  },
+  {
+    "campaign_id": "SYN-M02",
+    "split": "mapping",
+    "target_id": "SYN-T05",
+    "window": [
+      10,
+      31
+    ],
+    "synthetic": true
+  },
+  {
+    "campaign_id": "SYN-M03",
+    "split": "mapping",
+    "target_id": "SYN-T05",
+    "window": [
+      19,
+      40
+    ],
+    "synthetic": true
+  }
+]

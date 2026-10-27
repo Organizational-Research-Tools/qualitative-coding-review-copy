@@ -1,0 +1,29 @@
+{
+  "case_cards_status": "Authored documentary interpretations; source anchors supplied per card.",
+  "files": {
+    "bounded_correction_overlay.json": "0541e9fdbbcdf0b3c25d026e497f334b034ccba51ed1c002e82674ef5a6312f0",
+    "campaign_narrative_measure.csv": "07ce9f57931087a0e07babf62addecc91604373b176d93c9a5dda9cc07a83d09",
+    "campaign_trope_profiles.csv": "d4354c6bc6539e83986846de718b2b90d0751ea84f2ae117a050dd50b6541087",
+    "case_cards.json": "c728273b614cdfd4e610c12b5b44be0c13af3bad0bff78ca9421de8ecaaaa2d5",
+    "cluster_assignments.csv": "56ffaa2096b9d18f01874b54e96bbb4a32d9630ed3a12d8025667c74d67cbad9",
+    "comparison_matrix_rows.csv": "09cf2cd46a64523137aebef650d9d2d9190fb6a700d707d2e8cbbcddec5f9cde",
+    "ground_truth_campaign_lengths.csv": "e3c85efacf27f2956c456f00e94efe26f5e7b490708f4ec8a4e970a9c5d3eb24",
+    "selected_original_adjudicated_and_model_labels.json": "71eb873139b677eaf329e69ebf0b0e769daf08987def5ede4b71ae559cb29053"
+  },
+  "projection_script_sha256": "83fba34b6b3fd8d04d9ddc65210ad1a05827ddb95d3ab05a9a5e117b5b620a5e",
+  "source_bytes_and_mtimes_preserved": true,
+  "sources": {
+    "A01": {
+      "relative_path": "3_results/clustering/s05_campaigns_clusters_tropes_binary_majority_v1.0.csv",
+      "sha256": "21718e1022fc2b6cba58f69dd639cbf7dbe23d4e45eb1f6b9df9c20c5a7341a9"
+    },
+    "S19": {
+      "relative_path": "2_analysis/qualitative/Campaign_Comparisons_by_environment_v6.xlsx",
+      "sha256": "017fd9e78dac21f3225f0004aad8c6df722bcff3c43ff3fba6c2e41163ee39d5"
+    },
+    "S20": {
+      "relative_path": "2_analysis/qualitative/Campaign_Comparisons_by_environment_v8.xlsx",
+      "sha256": "60bbd04286a0624c4741c8f9e1afda5088020c3e73ab6cc10d5af3b2b5d5768b"
+    }
+  }
+}

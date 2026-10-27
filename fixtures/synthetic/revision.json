@@ -1,0 +1,29 @@
+{
+  "synthetic": true,
+  "from_version": "0.1.0",
+  "to_version": "0.2.0",
+  "development_segments": [
+    "SYN-C01:0",
+    "SYN-C01:1",
+    "SYN-C01:2"
+  ],
+  "participants": [
+    "reader_a",
+    "reader_b"
+  ],
+  "problem": "Readers disagreed about whether a failed promise suffices; the broad appearance/reversal wording concealed different mechanisms.",
+  "discussion": [
+    "Reader A defended the appearance-to-reversal reading of the launch delay.",
+    "Reader B compared the delay with hidden test results and asked where concealment and discovery occurred.",
+    "The pair retained the more demanding concealment-revelation relation and added explicit author-stance and uncertainty guidance; they did not merge all negative events to improve agreement."
+  ],
+  "decision": "Clarify the interpretive claim, record the counterexample, and preserve the original disagreement. The launch delay becomes a defended negative in v0.2.",
+  "sequence": [
+    "F1 individual v0.1 readings",
+    "F2 collective revision and codebook freeze",
+    "F3 new v0.2 readings and collective decisions",
+    "F4 frozen simulated judgments and evaluation",
+    "F5 mapping-case close reading"
+  ],
+  "holdout_policy": "No holdout text or evaluation outcome was used to develop the codebook in this designed teaching chronology. All records are invented, so this is not evidence of actual prospective blinding."
+}

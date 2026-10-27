@@ -1,0 +1,37 @@
+# Allowlist: new deliverables must be explicitly added here and to allowlist.txt.
+*
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/pyproject.toml
+!/allowlist.txt
+!/interpretive_map/
+!/interpretive_map/*.py
+!/tests/
+!/tests/*.py
+!/scripts/
+!/scripts/*.py
+!/codebooks/
+!/codebooks/*.json
+!/fixtures/
+!/fixtures/synthetic/
+!/fixtures/synthetic/*.json
+!/data/
+!/data/empirical/
+!/data/empirical/*.json
+!/data/empirical/*.csv
+!/LICENSE
+!/docs/
+!/docs/*.md
+!/docs/*.json
+# Defense in depth: no local state, databases, secrets, or research inputs.
+**/.env*
+**/*secret*
+**/*credential*
+**/*cookie*
+**/*.db*
+**/*.sqlite*
+**/__pycache__/
+**/*.pyc
+/outputs/
+/.venv/

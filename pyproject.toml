@@ -1,0 +1,10 @@
+[project]
+name = "interpretive-map-demo"
+version = "0.1.0"
+description = "Collectively defended codes, model votes and provisional corpus maps: a synthetic teaching example and a real-data replay"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.artifact]
+data_status = "synthetic teaching fixture plus frozen real-data extracts (IDs, counts, labels and hashes; no source text)"
+publication_status = "anonymous copy for peer review; see LICENSE"

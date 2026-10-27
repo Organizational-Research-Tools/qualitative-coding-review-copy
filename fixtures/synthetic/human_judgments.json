@@ -1,0 +1,332 @@
+[
+  {
+    "judgment_id": "H-SYN-C01:0-concealed_reversal-reader_a-v2",
+    "segment_id": "SYN-C01:0",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:0-concealed_reversal-reader_b-v2",
+    "segment_id": "SYN-C01:0",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:0-structural_trap-reader_a-v2",
+    "segment_id": "SYN-C01:0",
+    "code": "structural_trap",
+    "coder": "reader_a",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:0-structural_trap-reader_b-v2",
+    "segment_id": "SYN-C01:0",
+    "code": "structural_trap",
+    "coder": "reader_b",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:1-concealed_reversal-reader_a-v2",
+    "segment_id": "SYN-C01:1",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-C01:1-concealed_reversal-reader_b-v2",
+    "segment_id": "SYN-C01:1",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-C01:1-structural_trap-reader_a-v2",
+    "segment_id": "SYN-C01:1",
+    "code": "structural_trap",
+    "coder": "reader_a",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:1-structural_trap-reader_b-v2",
+    "segment_id": "SYN-C01:1",
+    "code": "structural_trap",
+    "coder": "reader_b",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:2-concealed_reversal-reader_a-v2",
+    "segment_id": "SYN-C01:2",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:2-concealed_reversal-reader_b-v2",
+    "segment_id": "SYN-C01:2",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:2-structural_trap-reader_a-v2",
+    "segment_id": "SYN-C01:2",
+    "code": "structural_trap",
+    "coder": "reader_a",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-C01:2-structural_trap-reader_b-v2",
+    "segment_id": "SYN-C01:2",
+    "code": "structural_trap",
+    "coder": "reader_b",
+    "pool": "synthetic_development",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-H01:0-concealed_reversal-reader_a-v2",
+    "segment_id": "SYN-H01:0",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-H01:0-concealed_reversal-reader_b-v2",
+    "segment_id": "SYN-H01:0",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-H01:0-structural_trap-reader_a-v2",
+    "segment_id": "SYN-H01:0",
+    "code": "structural_trap",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-H01:0-structural_trap-reader_b-v2",
+    "segment_id": "SYN-H01:0",
+    "code": "structural_trap",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-H01:1-concealed_reversal-reader_a-v2",
+    "segment_id": "SYN-H01:1",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-H01:1-concealed_reversal-reader_b-v2",
+    "segment_id": "SYN-H01:1",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-H01:1-structural_trap-reader_a-v2",
+    "segment_id": "SYN-H01:1",
+    "code": "structural_trap",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-H01:1-structural_trap-reader_b-v2",
+    "segment_id": "SYN-H01:1",
+    "code": "structural_trap",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-H01:2-concealed_reversal-reader_a-v2",
+    "segment_id": "SYN-H01:2",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Invented individual reading: a concealment/revelation or worsening mechanism appears"
+  },
+  {
+    "judgment_id": "H-SYN-H01:2-concealed_reversal-reader_b-v2",
+    "segment_id": "SYN-H01:2",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-H01:2-structural_trap-reader_a-v2",
+    "segment_id": "SYN-H01:2",
+    "code": "structural_trap",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-H01:2-structural_trap-reader_b-v2",
+    "segment_id": "SYN-H01:2",
+    "code": "structural_trap",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Invented individual reading: the required pattern is absent or rejected"
+  },
+  {
+    "judgment_id": "H-SYN-C01:0-concealed_reversal-reader_a-v1",
+    "segment_id": "SYN-C01:0",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_development",
+    "codebook_version": "0.1.0",
+    "value": 1,
+    "rationale": "Appearance-to-reversal fits the initial wording."
+  },
+  {
+    "judgment_id": "H-SYN-C01:0-concealed_reversal-reader_b-v1",
+    "segment_id": "SYN-C01:0",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_development",
+    "codebook_version": "0.1.0",
+    "value": 0,
+    "rationale": "Delay alone does not imply concealment."
+  },
+  {
+    "judgment_id": "H-SYN-H02:0-concealed_reversal-reader_a",
+    "segment_id": "SYN-H02:0",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 1,
+    "rationale": "Fragment permits competing readings; discussion is not yet resolved."
+  },
+  {
+    "judgment_id": "H-SYN-H02:0-concealed_reversal-reader_b",
+    "segment_id": "SYN-H02:0",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": null,
+    "rationale": "Fragment permits competing readings; discussion is not yet resolved."
+  },
+  {
+    "judgment_id": "H-SYN-H02:0-structural_trap-reader_a",
+    "segment_id": "SYN-H02:0",
+    "code": "structural_trap",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Fragment permits competing readings; discussion is not yet resolved."
+  },
+  {
+    "judgment_id": "H-SYN-H02:1-concealed_reversal-reader_a",
+    "segment_id": "SYN-H02:1",
+    "code": "concealed_reversal",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Routine sequence lacks this mechanism; independent reading, no collective review recorded."
+  },
+  {
+    "judgment_id": "H-SYN-H02:1-concealed_reversal-reader_b",
+    "segment_id": "SYN-H02:1",
+    "code": "concealed_reversal",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Routine sequence lacks this mechanism; independent reading, no collective review recorded."
+  },
+  {
+    "judgment_id": "H-SYN-H02:1-structural_trap-reader_a",
+    "segment_id": "SYN-H02:1",
+    "code": "structural_trap",
+    "coder": "reader_a",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Routine sequence lacks this mechanism; independent reading, no collective review recorded."
+  },
+  {
+    "judgment_id": "H-SYN-H02:1-structural_trap-reader_b",
+    "segment_id": "SYN-H02:1",
+    "code": "structural_trap",
+    "coder": "reader_b",
+    "pool": "synthetic_evaluation",
+    "codebook_version": "0.2.0",
+    "value": 0,
+    "rationale": "Routine sequence lacks this mechanism; independent reading, no collective review recorded."
+  }
+]

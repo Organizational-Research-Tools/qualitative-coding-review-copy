@@ -1,0 +1,26 @@
+[
+  {
+    "model_id": "simulated_a",
+    "simulated": true,
+    "provider": null,
+    "model_version": "teaching-cache-1",
+    "run_id": "SYN-RUN-a",
+    "generation": "Authored responses, no inference or paid calls"
+  },
+  {
+    "model_id": "simulated_b",
+    "simulated": true,
+    "provider": null,
+    "model_version": "teaching-cache-1",
+    "run_id": "SYN-RUN-b",
+    "generation": "Authored responses, no inference or paid calls"
+  },
+  {
+    "model_id": "simulated_c",
+    "simulated": true,
+    "provider": null,
+    "model_version": "teaching-cache-1",
+    "run_id": "SYN-RUN-c",
+    "generation": "Authored responses, no inference or paid calls"
+  }
+]
