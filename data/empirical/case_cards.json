@@ -3,13 +3,13 @@
     "campaign_id": 270,
     "name": "TransDigm",
     "interpretation": "Focused: several rhetorical resources converge on one valuation dependency, the continuation of price increases. A charged hustler story and a high narrative share can accompany a focused substantive thesis.",
-    "textual_relations": "The report uses a consensus earnings model, changes future price increases to zero without reversing past increases, and derives a lower valuation. Peer margins and government or OEM pricing pressure matter because they challenge the same earnings premise. The profile contains five tropes; shaky foundations appears in 6 of 9 routed segments and hustler story in 4. The draft nevertheless treats hustler story as central. Segment frequency does not settle organizing importance.",
+    "textual_relations": "The report uses a consensus earnings model, changes future price increases to zero without reversing past increases, and derives a lower valuation. Peer margins and government or OEM pricing pressure matter because they challenge the same earnings premise. The profile contains five tropes; shaky foundations appears in 6 of 9 routed segments and hustler story in 4. The companion manuscript nevertheless treats hustler story as central. Segment frequency does not settle organizing importance.",
     "sources": [
-      "A02, report pp. 1–4, especially p. 4",
-      "S04, paragraphs 94–98",
-      "S19, v6 row 15; S20, v8 row 3"
+      "Report pp. 1–4, especially p. 4",
+      "Companion manuscript, paragraphs 94–98",
+      "Comparison matrix v6, row 15; comparison matrix v8, row 3"
     ],
-    "limits": "The majority narrative share is 9/10; v8 retains 0.50 under a different voting rule. Keep both versions. Audience coordination is a substantive interpretation; report form alone does not establish audience uptake."
+    "limits": "The majority narrative share is 9/10; v8 retains 0.50 under a different voting rule. Both versions are retained. Audience coordination is a substantive interpretation; report form alone does not establish audience uptake."
   },
   {
     "campaign_id": 51,
@@ -17,9 +17,9 @@
     "interpretation": "Modular: varied attacks offer partly separable routes to a negative judgment. A general accusation of deception does not by itself integrate the routes into one causal explanation.",
     "textual_relations": "The report moves from alleged financial and related-party problems to a concession that the core business might still be strong, then tests that possibility through operating trends (p. 21). On p. 52 it argues for downside even with no debt. These concessions preserve a route to the negative valuation when another objection is set aside. Some routes also reinforce one another through debt, underinvestment and churn, so modular does not mean complete logical independence. Shaky foundations, hidden skeletons and hustler story occur here as in TransDigm and Nikola; their relationships differ.",
     "sources": [
-      "A03, report pp. 2, 21 and 52",
-      "S04, paragraphs 101–107",
-      "S20, v8 row 20"
+      "Report pp. 2, 21 and 52",
+      "Companion manuscript, paragraphs 101–107",
+      "Comparison matrix v8, row 20"
     ],
     "limits": "The report alleges misconduct; the reconstruction does not establish the allegations as facts. Diverse appeals suggest accommodation of different standards, but specific investor motives and reception require independent evidence. v8 share 0.4237 differs from current majority 39/59."
   },
@@ -29,9 +29,9 @@
     "interpretation": "Integrated: allegations about different episodes and technologies are connected through a recurring founder-centered pattern of promises and manufactured appearances of progress. Integration is a relation among claims, not a high trope count.",
     "textual_relations": "The opening asks how to judge the founder through his earlier ventures and carries that question into the company’s claimed achievements (p. 3). The truck episode is presented as a response to the need to sustain the appearance of progress (p. 23), with the hill recreation offered as supporting evidence (p. 25). The closing questions explicitly connect the allegations to repeated deception (p. 49). The current profile has eight tropes and 55/57 positive narrative segments. Its relation to Endurance depends on this cross-episode explanation rather than their shared allegation vocabulary.",
     "sources": [
-      "A04, archived report PDF physical pages 1, 3, 23, 25 and 49",
-      "S04, paragraphs 109–112",
-      "S20, v8 row 28"
+      "Archived report PDF, physical pages 1, 3, 23, 25 and 49",
+      "Companion manuscript, paragraphs 109–112",
+      "Comparison matrix v8, row 28"
     ],
     "limits": "The PDF is a web capture with later material, not a 203-page authored report. The report’s accusations are analyzed as rhetoric, not accepted as true. The proposed coordination advantage and reported audience shorthand are not directly tested by these pages."
   },
@@ -39,27 +39,27 @@
     "campaign_id": 228,
     "name": "Clearside Biomedical",
     "interpretation": "Boundary case for nonmoral integration: a projected sequence can organize an appeal without relying on a villain-centered morality story.",
-    "textual_relations": "The draft connects launch expectations, insider exit and a later loss of investor confidence. The report’s conclusion grants that the treatment may have a bright future while arguing that current expectations and valuation run ahead of adoption, pricing and commercial realities. This preserves a distinction between failure of the investment thesis and inevitable technical failure. A future sequence can be integrative, but the exact cross-section linkage requires closer episode coding.",
+    "textual_relations": "The companion manuscript connects launch expectations, insider exit and a later loss of investor confidence. The report’s conclusion grants that the treatment may have a bright future while arguing that current expectations and valuation run ahead of adoption, pricing and commercial realities. This preserves a distinction between failure of the investment thesis and inevitable technical failure. A future sequence can be integrative, but the exact cross-section linkage requires closer episode coding.",
     "sources": [
-      "A05, report physical pages 1 and 15",
-      "S04, paragraph 111",
-      "S19, v6 row 36; S20, v8 row 30"
+      "Report, physical pages 1 and 15",
+      "Companion manuscript, paragraph 111",
+      "Comparison matrix v6, row 36; comparison matrix v8, row 30"
     ],
-    "limits": "Treat as a documentary extension to test, not a new validated classification. v6/current majority share 0.90 and v8 share 0.30 would place the same campaign differently on form. Resolve the intended selection version before claiming a clean form-based contrast."
+    "limits": "This is a documentary extension to test, not a new validated classification. v6/current majority share 0.90 and v8 share 0.30 would place the same campaign differently on form."
   },
   {
     "campaign_id": 165,
     "name": "AECOM",
-    "interpretation": "Unresolved feedback case: a close-reading memo challenges the focused content label, while the latest manuscript still uses the campaign as a focused example.",
+    "interpretation": "Unresolved feedback case: a close-reading memo challenges the focused content label, while the companion manuscript still uses the campaign as a focused example.",
     "textual_relations": "The qualitative memo describes multiple lines of attack and argues that the profile missed shaky-foundations and smart-versus-dumb-money content, possibly because relevant evidence was presented in graphics with little text. The current profile has six tropes but neither of these two; the v6 and v8 matrices both retain the focused label. This is evidence of an unresolved interpretive conflict, not evidence that an adjudicated campaign correction was applied.",
     "sources": [
-      "W14, paragraphs 64–65",
-      "W09, synthesis memo AECOM override",
-      "W10, comparison protocol and sensitivity instruction",
-      "S04, paragraph 64",
-      "S19, v6 row 4; S20, v8 row 17",
-      "A06, original report identification"
+      "Qualitative case memo, paragraphs 64–65",
+      "Synthesis memo, AECOM override",
+      "Comparison protocol and sensitivity instruction",
+      "Companion manuscript, paragraph 64",
+      "Comparison matrix v6, row 4; comparison matrix v8, row 17",
+      "Original report identification"
     ],
-    "limits": "[AUTHOR RECOLLECTION OR DOCUMENT: Did the later focused reading deliberately reverse the memo, or was the matrix label carried forward?] No stored whole-campaign adjudication authorizes changing the current profile or cluster here."
+    "limits": "The record does not show whether the later focused reading reversed the memo or carried the matrix label forward. No stored whole-campaign adjudication authorizes changing the current profile or cluster here."
   }
 ]
