@@ -43,10 +43,12 @@ python3 -m interpretive_map --output outputs/example
 Open `outputs/example/review.html`. [docs/WALKTHROUGH.md](docs/WALKTHROUGH.md)
 explains what to notice in each output.
 
-**2. Real-data replay (the empirical study).** This run recomputes the proposal's
-proof of concept from frozen extracts of the study's records in `data/empirical/`.
-It covers 830 campaigns, 16 adjudicated decisions and the 5 cases compared in
-close reading.
+**2. Real-data replay (the empirical study).** This run replays the map and case
+comparisons from the proposal's proof of concept. It checks frozen extracts of the
+study's records in `data/empirical/` and recomputes summaries from them. It covers
+830 campaigns, 16 adjudicated decisions and the 5 cases compared in close reading.
+It does not recompute the reliability results, which rest on segment-level codes
+outside this repository.
 
 ```sh
 python3 scripts/build_empirical_arc.py --output outputs/replay
@@ -81,8 +83,9 @@ Repeated runs produce byte-identical files.
   - the synthetic fixture;
   - frozen real-data extracts: campaign-level trope profiles and narrative
     measures for 830 campaigns, stored cluster assignments, comparison-matrix
-    rows, five case cards, a correction overlay, and original, adjudicated and
-    cached model labels for 16 selected passages.
+    rows, five case cards, a correction overlay, and adjudicated and cached
+    model labels for 16 selected passages, with original labels for the eight
+    that have them.
 - **Not included:**
   - report text (passages appear only as SHA-256 hashes and lengths);
   - coder identities;
